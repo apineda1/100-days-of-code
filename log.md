@@ -1,30 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 1: September 19, 2020 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Forked two repos in GitHub, studied how git works using TwilioQuest. Finished part of day to of Advent of Code.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** I want to fully understand how git works, and I want to finish Advent of Code for this challenge.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:** [Forked repo](https://github.com/apineda1/100-days-of-code)
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: September 20, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Watched a ton of videos on the introductory course of Python in FreeCodeCamp.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts**: I know I said I wanted to make Advent of Code, but I do believe I could use some basic practice. So I will grind my way through the python courses in FreeCodeCamp from the beginning. Some of the videos are really basic, but others have concepts I didn't know about. I won't look at how many videos I have left, I will just watch them all through. I will eventually reach the projects, I will complete those and continue with Data Science. Eventually, I want to learn JavaScript, but I do believe that will be for another itearation of this 100 day challenge, not this one.
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
-
-### Day 1: June 27, Monday
-
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
-
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
-
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
