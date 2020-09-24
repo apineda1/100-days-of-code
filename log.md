@@ -20,10 +20,18 @@
 
 **Thoughts**: I know that today I didn't technically code, but I want to be able to finish the things and I begun this course, I want to finish it. My plan is to do 15% of videos on weekdays and 25% on Satudarday and Sunday. That way, I will finish the instructional part soon enough to go to coding projects at the end of the class. If I ever feel lost, I can always go back. I also forked the first project I will have to make.  
 
-**Link to work**: [Arithmetic Arranger](https://repl.it/repls/WanMistyroseParallelport)
+**Link to work**: [Arithmetic Arranger](https://repl.it/@apineda1/arithmeticarranger)
 
 ### Day 4: September 22, 2020
 
 **Today's Progress**: Another 15% through Python for Everybody in FreeCodeCamp.
 
 **Thoughts**: I am excited about the next lesson on creating a web browser. We already covered all the basics, and now we are going to see real world applications. Regular expressions for string manipulation actually caught my eye and I think they are worth looking at. I am happy with my progress with the videos. I believe that by the end of the week, I will be working on real projects. 
+
+### Day 5: September 23, 2020
+
+**Today's Progress**: 71% through Python for Everybody. Almost finished with arithmetic_arranger.
+
+**Thoughts**: I was actually excited to understand more about ASCII, UTF-8, XML, JSON... The lessons made me think that I could program my own module to access the World Bank Data and other databases. The video lessons were short today, but I felt like coding the first challenge. What's left is the arrangement part, I have to think like a machine to do this. I believe my code is a little too clumsy, but I am ok with clumsy, as I am still learning.
+
+**Link to work**: [Arithmetic Arranger](https://repl.it/@apineda1/arithmeticarranger)
