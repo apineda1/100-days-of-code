@@ -35,3 +35,9 @@
 **Thoughts**: I was actually excited to understand more about ASCII, UTF-8, XML, JSON... The lessons made me think that I could program my own module to access the World Bank Data and other databases. The video lessons were short today, but I felt like coding the first challenge. What's left is the arrangement part, I have to think like a machine to do this. I believe my code is a little too clumsy, but I am ok with clumsy, as I am still learning.
 
 **Link to work**: [Arithmetic Arranger](https://repl.it/@apineda1/arithmeticarranger)
+
+### Day 6: September 25, 2020
+
+**Today's progress**: 91% through Python for Everybody.
+
+**Thoughts**: I would like to understand more about APIs. I also want to overcome my fear of SQL and finally understand how to use it to create databases and incorporate it in my python code. Particularly, I want to be able to tell when to use pandas and when to use SQL.
