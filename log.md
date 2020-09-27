@@ -41,3 +41,13 @@
 **Today's progress**: 91% through Python for Everybody.
 
 **Thoughts**: I would like to understand more about APIs. I also want to overcome my fear of SQL and finally understand how to use it to create databases and incorporate it in my python code. Particularly, I want to be able to tell when to use pandas and when to use SQL.
+
+### Day 7: September 26, 2020
+
+**Today's progress**: 100% through Python for Everybody. Finished Arithmetic Arranger. Started Time Calculator.
+
+**Thoughts**: I finished watching Python for Everybody, and I should admit that there are things that weren't completely clear, but I do believe that exposure is important and what really makes me learn how to code is the projects I am working on. I am proud of finishing a course. Now only the projects are left. Time Calculator is cracking my head open, trying to figure out how to calculate time and date without importing the time and date module. But I will succeed, I know I need while loops.
+
+**Link to work**:
+1. [Arithmetic Calculator](https://repl.it/@apineda1/arithmeticarranger)
+2. [Time Calculator](https://repl.it/@apineda1/fcc-time-calculator)
