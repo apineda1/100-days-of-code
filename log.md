@@ -51,3 +51,44 @@
 **Link to work**:
 1. [Arithmetic Calculator](https://repl.it/@apineda1/arithmeticarranger)
 2. [Time Calculator](https://repl.it/@apineda1/fcc-time-calculator)
+
+### Day 8: September 27, 2020
+
+**Today's progress**: First successful call to an API. Started doing Object Oriented Programming.
+
+**Thoughts**: I may have spent way too much time on this project, but I finally have my first OOP draft, or that is how I am calling it.
+
+**Link to work**:
+1. [Zoom planner](https://repl.it/@apineda1/pzoom/)
+
+### Day 9: September 30, 2020
+**Today's progress**: Worked on creating links for each social media account.
+
+**Thoughts**: This is taking me longer than I expected.
+
+**Link to work**:
+1. [Zoom planner](https://repl.it/@apineda1/pzoom/)
+
+### Day 10: October 1, 2020
+**Today's progress**: Finished second iteration of my zoom planner. Made the final Copies class, to create the copies for social media.
+
+**Thoughts**: What I believe is the positive outcome of this project is 
+
+**Link to work**:
+1. [Zoom planner](https://repl.it/@apineda1/pzoom/)
+
+### Day 11: October 6, 2020
+
+**Today's progress**: Read on how to do SQL queries.
+
+### Day 12: October 8, 2020
+**Today's progress**: First javascript map using Folium.
+
+**Thoughts**: I need to learn javascript. Forget about websites, I need beautiful graphics.
+
+**Link to work**:
+
+### Day 13: October 9, 2020
+**Today's progress**: Added colors and first marker to chart. 
+
+**Thoughts**: I am worst at keeping track of my progress than at making progress.
