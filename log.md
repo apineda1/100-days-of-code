@@ -92,3 +92,19 @@
 **Today's progress**: Added colors and first marker to chart. 
 
 **Thoughts**: I am worst at keeping track of my progress than at making progress.
+
+### Day 14: October 10, 2020
+
+**Today's progress**:Added the rest of the markers to the map. Finished HTML basics in FreeCodeCamp.
+
+**Thoughts**: I should've studied this at college, maybe. I am really enjoying myself. I like setting classes in CSS for some reason, it appeals to my sense of needing order. I wonder if VIM is good website development. I want to learn more about VIM.s
+
+### Day 15: October 11, 2020
+
+**Today's progress**: Finished Area Calculator project and Basic CSS in FreeCodeCamp. Activate vim in repl.it to get used to it.
+
+**Thoughts**: I want to learn web design just for the sake of the pretty graphics and to be able to do things that people will find beautiful.
+
+**Link to work**: 
+1. [Polygon Area Calculator](https://repl.it/@apineda1/boilerplate-polygon-area-calculator)
+2. [Budget App](https://repl.it/@apineda1/boilerplate-budget-app)
